@@ -9,7 +9,6 @@ This project implements and analyzes Heapsort and a Priority Queue using binary 
 - `priority_queue.py`: Priority Queue implementation using a min-heap and Task class
 - `test_priority_queue.py`: Test script demonstrating core priority queue operations
 - `simulate_scheduler.py`: Task scheduling simulation using the implemented priority queue
-- `report.md`: Report draft in markdown format
 - `Assignment4_Haeri Kyoung.pdf`: Final written report containing implementation, analysis, simulation, and results
 - `README.md`: Instructions and summary of the project
 
